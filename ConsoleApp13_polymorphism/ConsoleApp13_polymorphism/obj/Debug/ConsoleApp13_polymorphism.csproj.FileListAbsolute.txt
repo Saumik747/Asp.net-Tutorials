@@ -1,0 +1,8 @@
+D:\visual studio\ConsoleApp13_polymorphism\ConsoleApp13_polymorphism\bin\Debug\ConsoleApp13_polymorphism.exe.config
+D:\visual studio\ConsoleApp13_polymorphism\ConsoleApp13_polymorphism\bin\Debug\ConsoleApp13_polymorphism.exe
+D:\visual studio\ConsoleApp13_polymorphism\ConsoleApp13_polymorphism\bin\Debug\ConsoleApp13_polymorphism.pdb
+D:\visual studio\ConsoleApp13_polymorphism\ConsoleApp13_polymorphism\obj\Debug\ConsoleApp13_polymorphism.csproj.AssemblyReference.cache
+D:\visual studio\ConsoleApp13_polymorphism\ConsoleApp13_polymorphism\obj\Debug\ConsoleApp13_polymorphism.csproj.SuggestedBindingRedirects.cache
+D:\visual studio\ConsoleApp13_polymorphism\ConsoleApp13_polymorphism\obj\Debug\ConsoleApp13_polymorphism.csproj.CoreCompileInputs.cache
+D:\visual studio\ConsoleApp13_polymorphism\ConsoleApp13_polymorphism\obj\Debug\ConsoleApp13_polymorphism.exe
+D:\visual studio\ConsoleApp13_polymorphism\ConsoleApp13_polymorphism\obj\Debug\ConsoleApp13_polymorphism.pdb

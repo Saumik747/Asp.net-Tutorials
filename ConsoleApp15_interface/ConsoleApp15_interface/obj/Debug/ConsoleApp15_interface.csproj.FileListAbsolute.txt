@@ -1,0 +1,8 @@
+D:\visual studio\ConsoleApp15_interface\ConsoleApp15_interface\bin\Debug\ConsoleApp15_interface.exe.config
+D:\visual studio\ConsoleApp15_interface\ConsoleApp15_interface\bin\Debug\ConsoleApp15_interface.exe
+D:\visual studio\ConsoleApp15_interface\ConsoleApp15_interface\bin\Debug\ConsoleApp15_interface.pdb
+D:\visual studio\ConsoleApp15_interface\ConsoleApp15_interface\obj\Debug\ConsoleApp15_interface.csproj.AssemblyReference.cache
+D:\visual studio\ConsoleApp15_interface\ConsoleApp15_interface\obj\Debug\ConsoleApp15_interface.csproj.SuggestedBindingRedirects.cache
+D:\visual studio\ConsoleApp15_interface\ConsoleApp15_interface\obj\Debug\ConsoleApp15_interface.csproj.CoreCompileInputs.cache
+D:\visual studio\ConsoleApp15_interface\ConsoleApp15_interface\obj\Debug\ConsoleApp15_interface.exe
+D:\visual studio\ConsoleApp15_interface\ConsoleApp15_interface\obj\Debug\ConsoleApp15_interface.pdb

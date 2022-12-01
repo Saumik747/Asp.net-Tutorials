@@ -1,0 +1,8 @@
+D:\visual studio\ConsoleApp14_abstract\ConsoleApp14_abstract\bin\Debug\ConsoleApp14_abstract.exe.config
+D:\visual studio\ConsoleApp14_abstract\ConsoleApp14_abstract\bin\Debug\ConsoleApp14_abstract.exe
+D:\visual studio\ConsoleApp14_abstract\ConsoleApp14_abstract\bin\Debug\ConsoleApp14_abstract.pdb
+D:\visual studio\ConsoleApp14_abstract\ConsoleApp14_abstract\obj\Debug\ConsoleApp14_abstract.csproj.AssemblyReference.cache
+D:\visual studio\ConsoleApp14_abstract\ConsoleApp14_abstract\obj\Debug\ConsoleApp14_abstract.csproj.SuggestedBindingRedirects.cache
+D:\visual studio\ConsoleApp14_abstract\ConsoleApp14_abstract\obj\Debug\ConsoleApp14_abstract.csproj.CoreCompileInputs.cache
+D:\visual studio\ConsoleApp14_abstract\ConsoleApp14_abstract\obj\Debug\ConsoleApp14_abstract.exe
+D:\visual studio\ConsoleApp14_abstract\ConsoleApp14_abstract\obj\Debug\ConsoleApp14_abstract.pdb

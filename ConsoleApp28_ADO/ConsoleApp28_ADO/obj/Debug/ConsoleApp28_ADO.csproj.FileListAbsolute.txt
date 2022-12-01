@@ -1,0 +1,2 @@
+D:\trim-3\asp\visual studio\ConsoleApp28_ADO\ConsoleApp28_ADO\obj\Debug\ConsoleApp28_ADO.csproj.AssemblyReference.cache
+D:\trim-3\asp\visual studio\ConsoleApp28_ADO\ConsoleApp28_ADO\obj\Debug\ConsoleApp28_ADO.csproj.CoreCompileInputs.cache

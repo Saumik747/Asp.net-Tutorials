@@ -1,0 +1,8 @@
+D:\visual studio\ConsoleApp23_queue_stack\ConsoleApp23_queue_stack\bin\Debug\ConsoleApp23_queue_stack.exe.config
+D:\visual studio\ConsoleApp23_queue_stack\ConsoleApp23_queue_stack\bin\Debug\ConsoleApp23_queue_stack.exe
+D:\visual studio\ConsoleApp23_queue_stack\ConsoleApp23_queue_stack\bin\Debug\ConsoleApp23_queue_stack.pdb
+D:\visual studio\ConsoleApp23_queue_stack\ConsoleApp23_queue_stack\obj\Debug\ConsoleApp23_queue_stack.csproj.AssemblyReference.cache
+D:\visual studio\ConsoleApp23_queue_stack\ConsoleApp23_queue_stack\obj\Debug\ConsoleApp23_queue_stack.csproj.SuggestedBindingRedirects.cache
+D:\visual studio\ConsoleApp23_queue_stack\ConsoleApp23_queue_stack\obj\Debug\ConsoleApp23_queue_stack.csproj.CoreCompileInputs.cache
+D:\visual studio\ConsoleApp23_queue_stack\ConsoleApp23_queue_stack\obj\Debug\ConsoleApp23_queue_stack.exe
+D:\visual studio\ConsoleApp23_queue_stack\ConsoleApp23_queue_stack\obj\Debug\ConsoleApp23_queue_stack.pdb

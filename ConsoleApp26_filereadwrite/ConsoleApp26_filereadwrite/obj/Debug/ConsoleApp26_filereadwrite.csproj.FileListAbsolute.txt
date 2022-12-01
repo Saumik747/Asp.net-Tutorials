@@ -1,0 +1,8 @@
+D:\visual studio\ConsoleApp26_filereadwrite\ConsoleApp26_filereadwrite\obj\Debug\ConsoleApp26_filereadwrite.csproj.AssemblyReference.cache
+D:\visual studio\ConsoleApp26_filereadwrite\ConsoleApp26_filereadwrite\obj\Debug\ConsoleApp26_filereadwrite.csproj.SuggestedBindingRedirects.cache
+D:\visual studio\ConsoleApp26_filereadwrite\ConsoleApp26_filereadwrite\obj\Debug\ConsoleApp26_filereadwrite.csproj.CoreCompileInputs.cache
+D:\visual studio\ConsoleApp26_filereadwrite\ConsoleApp26_filereadwrite\bin\Debug\ConsoleApp26_filereadwrite.exe.config
+D:\visual studio\ConsoleApp26_filereadwrite\ConsoleApp26_filereadwrite\bin\Debug\ConsoleApp26_filereadwrite.exe
+D:\visual studio\ConsoleApp26_filereadwrite\ConsoleApp26_filereadwrite\bin\Debug\ConsoleApp26_filereadwrite.pdb
+D:\visual studio\ConsoleApp26_filereadwrite\ConsoleApp26_filereadwrite\obj\Debug\ConsoleApp26_filereadwrite.exe
+D:\visual studio\ConsoleApp26_filereadwrite\ConsoleApp26_filereadwrite\obj\Debug\ConsoleApp26_filereadwrite.pdb

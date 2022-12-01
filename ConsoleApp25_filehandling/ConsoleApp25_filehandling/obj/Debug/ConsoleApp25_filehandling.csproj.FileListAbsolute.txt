@@ -1,0 +1,8 @@
+D:\visual studio\ConsoleApp25_filehandling\ConsoleApp25_filehandling\bin\Debug\ConsoleApp25_filehandling.exe.config
+D:\visual studio\ConsoleApp25_filehandling\ConsoleApp25_filehandling\bin\Debug\ConsoleApp25_filehandling.exe
+D:\visual studio\ConsoleApp25_filehandling\ConsoleApp25_filehandling\bin\Debug\ConsoleApp25_filehandling.pdb
+D:\visual studio\ConsoleApp25_filehandling\ConsoleApp25_filehandling\obj\Debug\ConsoleApp25_filehandling.csproj.AssemblyReference.cache
+D:\visual studio\ConsoleApp25_filehandling\ConsoleApp25_filehandling\obj\Debug\ConsoleApp25_filehandling.csproj.SuggestedBindingRedirects.cache
+D:\visual studio\ConsoleApp25_filehandling\ConsoleApp25_filehandling\obj\Debug\ConsoleApp25_filehandling.csproj.CoreCompileInputs.cache
+D:\visual studio\ConsoleApp25_filehandling\ConsoleApp25_filehandling\obj\Debug\ConsoleApp25_filehandling.exe
+D:\visual studio\ConsoleApp25_filehandling\ConsoleApp25_filehandling\obj\Debug\ConsoleApp25_filehandling.pdb

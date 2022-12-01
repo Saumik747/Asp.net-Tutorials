@@ -1,0 +1,8 @@
+D:\visual studio\ConsoleApp22_list\ConsoleApp22_list\obj\Debug\ConsoleApp22_list.csproj.AssemblyReference.cache
+D:\visual studio\ConsoleApp22_list\ConsoleApp22_list\obj\Debug\ConsoleApp22_list.csproj.SuggestedBindingRedirects.cache
+D:\visual studio\ConsoleApp22_list\ConsoleApp22_list\obj\Debug\ConsoleApp22_list.csproj.CoreCompileInputs.cache
+D:\visual studio\ConsoleApp22_list\ConsoleApp22_list\bin\Debug\ConsoleApp22_list.exe.config
+D:\visual studio\ConsoleApp22_list\ConsoleApp22_list\bin\Debug\ConsoleApp22_list.exe
+D:\visual studio\ConsoleApp22_list\ConsoleApp22_list\bin\Debug\ConsoleApp22_list.pdb
+D:\visual studio\ConsoleApp22_list\ConsoleApp22_list\obj\Debug\ConsoleApp22_list.exe
+D:\visual studio\ConsoleApp22_list\ConsoleApp22_list\obj\Debug\ConsoleApp22_list.pdb

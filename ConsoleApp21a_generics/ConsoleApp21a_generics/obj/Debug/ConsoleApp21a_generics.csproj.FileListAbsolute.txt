@@ -1,0 +1,8 @@
+D:\visual studio\ConsoleApp21a_generics\ConsoleApp21a_generics\obj\Debug\ConsoleApp21a_generics.csproj.AssemblyReference.cache
+D:\visual studio\ConsoleApp21a_generics\ConsoleApp21a_generics\obj\Debug\ConsoleApp21a_generics.csproj.SuggestedBindingRedirects.cache
+D:\visual studio\ConsoleApp21a_generics\ConsoleApp21a_generics\obj\Debug\ConsoleApp21a_generics.csproj.CoreCompileInputs.cache
+D:\visual studio\ConsoleApp21a_generics\ConsoleApp21a_generics\bin\Debug\ConsoleApp21a_generics.exe.config
+D:\visual studio\ConsoleApp21a_generics\ConsoleApp21a_generics\bin\Debug\ConsoleApp21a_generics.exe
+D:\visual studio\ConsoleApp21a_generics\ConsoleApp21a_generics\bin\Debug\ConsoleApp21a_generics.pdb
+D:\visual studio\ConsoleApp21a_generics\ConsoleApp21a_generics\obj\Debug\ConsoleApp21a_generics.exe
+D:\visual studio\ConsoleApp21a_generics\ConsoleApp21a_generics\obj\Debug\ConsoleApp21a_generics.pdb

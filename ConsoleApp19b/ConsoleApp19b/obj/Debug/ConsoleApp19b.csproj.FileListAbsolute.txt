@@ -1,0 +1,8 @@
+D:\visual studio\ConsoleApp19b\ConsoleApp19b\bin\Debug\ConsoleApp19b.exe.config
+D:\visual studio\ConsoleApp19b\ConsoleApp19b\bin\Debug\ConsoleApp19b.exe
+D:\visual studio\ConsoleApp19b\ConsoleApp19b\bin\Debug\ConsoleApp19b.pdb
+D:\visual studio\ConsoleApp19b\ConsoleApp19b\obj\Debug\ConsoleApp19b.csproj.AssemblyReference.cache
+D:\visual studio\ConsoleApp19b\ConsoleApp19b\obj\Debug\ConsoleApp19b.csproj.SuggestedBindingRedirects.cache
+D:\visual studio\ConsoleApp19b\ConsoleApp19b\obj\Debug\ConsoleApp19b.csproj.CoreCompileInputs.cache
+D:\visual studio\ConsoleApp19b\ConsoleApp19b\obj\Debug\ConsoleApp19b.exe
+D:\visual studio\ConsoleApp19b\ConsoleApp19b\obj\Debug\ConsoleApp19b.pdb

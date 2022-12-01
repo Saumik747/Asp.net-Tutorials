@@ -1,0 +1,8 @@
+D:\visual studio\ConsoleApp22_boxingunboxing\ConsoleApp22_boxingunboxing\bin\Debug\ConsoleApp22_boxingunboxing.exe.config
+D:\visual studio\ConsoleApp22_boxingunboxing\ConsoleApp22_boxingunboxing\bin\Debug\ConsoleApp22_boxingunboxing.exe
+D:\visual studio\ConsoleApp22_boxingunboxing\ConsoleApp22_boxingunboxing\bin\Debug\ConsoleApp22_boxingunboxing.pdb
+D:\visual studio\ConsoleApp22_boxingunboxing\ConsoleApp22_boxingunboxing\obj\Debug\ConsoleApp22_boxingunboxing.csproj.AssemblyReference.cache
+D:\visual studio\ConsoleApp22_boxingunboxing\ConsoleApp22_boxingunboxing\obj\Debug\ConsoleApp22_boxingunboxing.csproj.SuggestedBindingRedirects.cache
+D:\visual studio\ConsoleApp22_boxingunboxing\ConsoleApp22_boxingunboxing\obj\Debug\ConsoleApp22_boxingunboxing.csproj.CoreCompileInputs.cache
+D:\visual studio\ConsoleApp22_boxingunboxing\ConsoleApp22_boxingunboxing\obj\Debug\ConsoleApp22_boxingunboxing.exe
+D:\visual studio\ConsoleApp22_boxingunboxing\ConsoleApp22_boxingunboxing\obj\Debug\ConsoleApp22_boxingunboxing.pdb

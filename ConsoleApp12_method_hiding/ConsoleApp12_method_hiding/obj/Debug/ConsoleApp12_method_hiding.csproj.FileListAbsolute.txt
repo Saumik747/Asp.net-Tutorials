@@ -1,0 +1,8 @@
+D:\visual studio\ConsoleApp12_method_hiding\ConsoleApp12_method_hiding\bin\Debug\ConsoleApp12_method_hiding.exe.config
+D:\visual studio\ConsoleApp12_method_hiding\ConsoleApp12_method_hiding\bin\Debug\ConsoleApp12_method_hiding.exe
+D:\visual studio\ConsoleApp12_method_hiding\ConsoleApp12_method_hiding\bin\Debug\ConsoleApp12_method_hiding.pdb
+D:\visual studio\ConsoleApp12_method_hiding\ConsoleApp12_method_hiding\obj\Debug\ConsoleApp12_method_hiding.csproj.AssemblyReference.cache
+D:\visual studio\ConsoleApp12_method_hiding\ConsoleApp12_method_hiding\obj\Debug\ConsoleApp12_method_hiding.csproj.SuggestedBindingRedirects.cache
+D:\visual studio\ConsoleApp12_method_hiding\ConsoleApp12_method_hiding\obj\Debug\ConsoleApp12_method_hiding.csproj.CoreCompileInputs.cache
+D:\visual studio\ConsoleApp12_method_hiding\ConsoleApp12_method_hiding\obj\Debug\ConsoleApp12_method_hiding.exe
+D:\visual studio\ConsoleApp12_method_hiding\ConsoleApp12_method_hiding\obj\Debug\ConsoleApp12_method_hiding.pdb

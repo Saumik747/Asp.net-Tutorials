@@ -1,0 +1,8 @@
+D:\visual studio\ConsoleApp16_extensionmethod\ConsoleApp16_extensionmethod\bin\Debug\ConsoleApp16_extensionmethod.exe.config
+D:\visual studio\ConsoleApp16_extensionmethod\ConsoleApp16_extensionmethod\bin\Debug\ConsoleApp16_extensionmethod.exe
+D:\visual studio\ConsoleApp16_extensionmethod\ConsoleApp16_extensionmethod\bin\Debug\ConsoleApp16_extensionmethod.pdb
+D:\visual studio\ConsoleApp16_extensionmethod\ConsoleApp16_extensionmethod\obj\Debug\ConsoleApp16_extensionmethod.csproj.AssemblyReference.cache
+D:\visual studio\ConsoleApp16_extensionmethod\ConsoleApp16_extensionmethod\obj\Debug\ConsoleApp16_extensionmethod.csproj.SuggestedBindingRedirects.cache
+D:\visual studio\ConsoleApp16_extensionmethod\ConsoleApp16_extensionmethod\obj\Debug\ConsoleApp16_extensionmethod.csproj.CoreCompileInputs.cache
+D:\visual studio\ConsoleApp16_extensionmethod\ConsoleApp16_extensionmethod\obj\Debug\ConsoleApp16_extensionmethod.exe
+D:\visual studio\ConsoleApp16_extensionmethod\ConsoleApp16_extensionmethod\obj\Debug\ConsoleApp16_extensionmethod.pdb

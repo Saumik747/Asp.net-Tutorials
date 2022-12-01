@@ -1,0 +1,8 @@
+D:\visual studio\ConsoleApp18_enum\ConsoleApp18_enum\bin\Debug\ConsoleApp18_enum.exe.config
+D:\visual studio\ConsoleApp18_enum\ConsoleApp18_enum\bin\Debug\ConsoleApp18_enum.exe
+D:\visual studio\ConsoleApp18_enum\ConsoleApp18_enum\bin\Debug\ConsoleApp18_enum.pdb
+D:\visual studio\ConsoleApp18_enum\ConsoleApp18_enum\obj\Debug\ConsoleApp18_enum.csproj.AssemblyReference.cache
+D:\visual studio\ConsoleApp18_enum\ConsoleApp18_enum\obj\Debug\ConsoleApp18_enum.csproj.SuggestedBindingRedirects.cache
+D:\visual studio\ConsoleApp18_enum\ConsoleApp18_enum\obj\Debug\ConsoleApp18_enum.csproj.CoreCompileInputs.cache
+D:\visual studio\ConsoleApp18_enum\ConsoleApp18_enum\obj\Debug\ConsoleApp18_enum.exe
+D:\visual studio\ConsoleApp18_enum\ConsoleApp18_enum\obj\Debug\ConsoleApp18_enum.pdb

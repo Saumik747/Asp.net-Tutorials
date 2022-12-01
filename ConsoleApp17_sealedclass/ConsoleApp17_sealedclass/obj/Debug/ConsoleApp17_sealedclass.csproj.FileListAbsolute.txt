@@ -1,0 +1,8 @@
+D:\visual studio\ConsoleApp17_sealedclass\ConsoleApp17_sealedclass\bin\Debug\ConsoleApp17_sealedclass.exe.config
+D:\visual studio\ConsoleApp17_sealedclass\ConsoleApp17_sealedclass\bin\Debug\ConsoleApp17_sealedclass.exe
+D:\visual studio\ConsoleApp17_sealedclass\ConsoleApp17_sealedclass\bin\Debug\ConsoleApp17_sealedclass.pdb
+D:\visual studio\ConsoleApp17_sealedclass\ConsoleApp17_sealedclass\obj\Debug\ConsoleApp17_sealedclass.csproj.AssemblyReference.cache
+D:\visual studio\ConsoleApp17_sealedclass\ConsoleApp17_sealedclass\obj\Debug\ConsoleApp17_sealedclass.csproj.SuggestedBindingRedirects.cache
+D:\visual studio\ConsoleApp17_sealedclass\ConsoleApp17_sealedclass\obj\Debug\ConsoleApp17_sealedclass.csproj.CoreCompileInputs.cache
+D:\visual studio\ConsoleApp17_sealedclass\ConsoleApp17_sealedclass\obj\Debug\ConsoleApp17_sealedclass.exe
+D:\visual studio\ConsoleApp17_sealedclass\ConsoleApp17_sealedclass\obj\Debug\ConsoleApp17_sealedclass.pdb
